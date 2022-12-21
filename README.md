@@ -25,6 +25,8 @@ git commit -m "Primer commit"
 git clone 
 Sirve para clonar un repositorio remoto a local
 
+git push -u origin main
+subimos os arquivos o repositorio
 ```
 > Initcialización do repositorio local.
 
