@@ -5,7 +5,7 @@
 ```bash
 git init
 ```
-> Initcialización do repositorio local.
+Initcialización do repositorio local.
 
 ```
 git config --global user.name "Xian Durán"
