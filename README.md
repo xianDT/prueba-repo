@@ -31,7 +31,13 @@ git commit -m "Primer commit"
 
 
 git diff
-Da a ver as diferencias das orixes de datos de git 
+Da a ver as diferencias das orixes de datos de git
+
+
+git show
+Mostra os cambios da ultima versión do repositorio respecto a anterior
+
+
 
 git clone 
 Sirve para clonar un repositorio remoto a local
@@ -54,6 +60,14 @@ Desgacemos o último commit e mantemos cambios anterioes no directorio de trabal
 
 git reset --hard HEAD~1
 Desfai o último commit e os cambios anteriores do directorio de traballo volvendo a version anterior do repositorio
+
+
+
+git branch 
+Permite crear e listar ou eliminar ramas do sistema segun sexa necesario
+
+
+
 
 
 ```
