@@ -67,6 +67,17 @@ git branch
 Permite crear e listar ou eliminar ramas do sistema segun sexa necesario
 
 
+git branch 
+E un comando que permite crear ou listar ou eliminar ramas do sistema cando sexa necesario
+
+
+git checkout
+Permite desplazarse entre ramas creadas polo git branch
+
+
+git commit -a -m
+Permite añadir cambios a zona de intercambio temporal e facer un commit con unha mensaxe
+
 
 
 
